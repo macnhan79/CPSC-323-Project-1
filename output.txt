@@ -1,0 +1,8 @@
+Token:		Lexeme:
+Separator: (
+Identifier: t
+Identifier: lower
+Separator: )
+Identifier: r
+Real: 28.00
+Separator: ;
